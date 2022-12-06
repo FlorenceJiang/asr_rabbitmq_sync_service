@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ```
 3. Run the server
 ```
-python3server.py
+python server.py
 ```
 4. Open nother terminal window, and run the client
 ```
